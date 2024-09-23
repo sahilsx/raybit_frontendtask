@@ -1,0 +1,51 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+ 
+  
+ .above {
+    width:100vw;
+    height: 70vh;
+    background-color: rgb(212, 115, 212);
+    
+} 
+.label{
+    display: block;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top:5px;
+}   
+input{
+    display: block;
+    margin-left: 42%;
+    width: 20%;
+    height: 10%;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    margin-top: 10px;
+   border-radius: 30;
+  
+}
+
+button{
+    margin-top: 30px;
+    padding: 10px;
+    background-color: rgb(12, 12, 14);
+    color: white;
+    margin-left: 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left:50px;
+}
+
+
+h1{
+border: 2px solid purple;
+background-color: royalblue;
+margin-bottom: 30px;
+
+}
